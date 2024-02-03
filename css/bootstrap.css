@@ -1,0 +1,23 @@
+/************************************************/
+/*  mi propio estilo para mi boorstrap webpage*/
+
+
+.bg-purple{background-color: purple;}
+.text-purple{color:purple;}
+.border-purple{color:purple;}
+
+
+/*  adding  A NEW PADDING*/
+
+.p-6{padding: 6em;}
+
+.pt-6{padding-top: 6em;}
+
+
+/* adding a new height  */
+
+.h-85{height:85vh}
+
+body{background-image: url(../images/patron-costuras-guinga-roja-blanca-textura-cuadros-mantel-manta-picnic-cuadros_254622-286.avif);
+
+font-family:Verdana, Geneva, Tahoma, sans-serif}
